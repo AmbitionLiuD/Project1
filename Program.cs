@@ -14,7 +14,7 @@ namespace childbirth
             {
                Console .WriteLine(temp);            
             }
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
